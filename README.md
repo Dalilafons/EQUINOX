@@ -31,10 +31,10 @@ Usando:
 ---
 
 ## 📁 Estructura del Proyecto
-├── servidor.py # Servidor web FastAPI
-├── lector_serial.py # Comunicación entre Arduino y servidor
-├── servidor.ino # Código Arduino para sensores y actuadores
-├── README.md # Este archivo
+-  servidor.py # Servidor web FastAPI
+- lector_serial.py # Comunicación entre Arduino y servidor
+- servidor.ino # Código Arduino para sensores y actuadores
+- README.md # Este archivo
 
 ---
 

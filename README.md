@@ -3,7 +3,7 @@
 Este reto consistió en diseñar una **caballeriza inteligente**, un entorno automatizado para alimentar, hidratar y proteger a los caballos.  
 Se implementó una **interfaz web** que permite:
 
-- Monitorear condiciones del ambiente (🌡️ temperatura y 💧 humedad)
+- Monitorear condiciones del ambiente (🌡️ temperatura, 💧 humedad y 🔥 humo)
 - Activar dispensadores de comida por niveles (🍽️)
 - Controlar el bebedero automático (🚿)
 - Abrir o cerrar una puerta eléctrica (🚪)
@@ -24,7 +24,7 @@ Usando:
 
 - 🖥️ **Raspberry Pi 4**
 - 🔌 **Arduino UNO**
-- 🧪 **Sensores DHT y de nivel**
+- 🧪 **Sensores**: DHT11/DHT22 (temperatura y humedad) + sensor de humo (MQ-2/MQ-1
 - ⚙️ **Actuadores: bomba, servos, motor**
 - 🧑‍💻 **Python + HTML + CSS + FastAPI**
 
